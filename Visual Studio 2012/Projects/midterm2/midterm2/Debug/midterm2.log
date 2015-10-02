@@ -1,0 +1,16 @@
+﻿Build started 3/28/2014 9:43:41 AM.
+     1>Project "C:\Users\CJ\documents\visual studio 2012\Projects\midterm2\midterm2\midterm2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CJ\documents\visual studio 2012\Projects\midterm2\Debug\midterm2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\CJ\documents\visual studio 2012\Projects\midterm2\Debug\midterm2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CJ\documents\visual studio 2012\Projects\midterm2\Debug\midterm2.lib" /MACHINE:X86 Debug\printScore.obj
+         Debug\Source.obj
+     1>Source.obj : error LNK2005: "void __cdecl awards(bool,bool,bool,bool)" (?awards@@YAX_N000@Z) already defined in printScore.obj
+     1>Source.obj : error LNK2005: "double __cdecl gamesaverage(class std::vector<int,class std::allocator<int> >)" (?gamesaverage@@YANV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in printScore.obj
+     1>Source.obj : error LNK2005: "int __cdecl numofgames(int)" (?numofgames@@YAHH@Z) already defined in printScore.obj
+     1>Source.obj : error LNK2005: "int __cdecl score(int,int,int,int)" (?score@@YAHHHHH@Z) already defined in printScore.obj
+     1>Source.obj : error LNK2005: _main already defined in printScore.obj
+     1>C:\Users\CJ\documents\visual studio 2012\Projects\midterm2\Debug\midterm2.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\CJ\documents\visual studio 2012\Projects\midterm2\midterm2\midterm2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.73

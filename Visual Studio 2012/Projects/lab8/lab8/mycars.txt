@@ -1,0 +1,25 @@
+69715.4
+Name: Navy
+Color: White
+Price: $6972.15
+Name: Kidney
+Color: Red
+Price: $3971.15
+Name: Refried
+Color: Brown
+Price: $9999.99
+Name: Garbanzo
+Color: White
+Price: $975.21
+Name: Black
+Color: Black
+Price: $7946.85
+Name: Edamame
+Color: Green
+Price: $555.55
+Name: Lima
+Color: White
+Price: $5873.15
+Name: Pinto
+Color: Brown
+Price: $12369
